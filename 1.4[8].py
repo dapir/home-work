@@ -8,4 +8,3 @@ n, m = 3, 2
 crash = 2
 crash_test = (n * m) // crash or (n * m) // crash or (n * m) // crash or (n * m) // crash or (n * m) // crash
 print('YES' if crash_test != 6 else 'NO')
-## djjs
